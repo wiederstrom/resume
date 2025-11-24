@@ -5,7 +5,7 @@
         "description": "Professional resume website built with Dash and Python to showcase my education, experience, and data science skills through interactive visualizations and responsive design. Future development planned to migrate to a complete full-stack solution using React, FastAPI, and SQL backend.",
         "technologies": ["Python", "Dash", "Plotly", "Bootstrap", "JSON", "Railway", "Git"],
         "github_url": "https://github.com/wiederstrom/resume",
-        "demo_url": "https://wiederstrom.info",
+        "demo_url": "https://wiederstrom.no",
         "image_path": "/assets/resume-portfolio.png",
         "is_featured": true,
         "highlights": [
