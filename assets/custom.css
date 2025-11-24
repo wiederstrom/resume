@@ -1,0 +1,155 @@
+/* Base styles */
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #434343 0%, #000000 100%);
+    color: white;
+    padding: 3rem 0;
+}
+
+.section-header {
+    color: #495057;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+    /* Hero section adjustments */
+    .hero-section {
+        padding: 2rem 1rem !important;
+    }
+
+    .hero-section h1 {
+        font-size: 2rem !important;
+    }
+
+    .hero-section h3 {
+        font-size: 1.3rem !important;
+    }
+
+    .hero-section .lead {
+        font-size: 1rem !important;
+    }
+
+    .hero-section img {
+        max-width: 200px !important;
+        margin-top: 1rem;
+    }
+
+    /* Button groups stack vertically on mobile */
+    .btn-group {
+        flex-direction: column !important;
+        width: 100%;
+    }
+
+    .btn-group .btn {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+
+    /* Card adjustments */
+    .card {
+        margin-bottom: 1rem;
+    }
+
+    .card-body {
+        padding: 1rem;
+    }
+
+    /* Section headers */
+    .section-header {
+        font-size: 1.5rem;
+    }
+
+    /* Smaller badges on mobile */
+    .badge {
+        font-size: 0.75rem !important;
+    }
+
+    /* Adjust spacing */
+    .mb-5 {
+        margin-bottom: 2rem !important;
+    }
+
+    .mb-4 {
+        margin-bottom: 1.5rem !important;
+    }
+
+    /* Navigation */
+    .navbar {
+        padding: 0.5rem 1rem;
+    }
+
+    /* Make project images responsive */
+    .card-img-top {
+        height: 150px !important;
+    }
+
+    /* Improve touch targets */
+    .btn {
+        min-height: 44px;
+        padding: 0.5rem 1rem;
+    }
+
+    /* Better text readability */
+    body {
+        font-size: 16px;
+    }
+
+    .small {
+        font-size: 0.875rem !important;
+    }
+}
+
+/* Tablet adjustments */
+@media (min-width: 769px) and (max-width: 991px) {
+    .hero-section h1 {
+        font-size: 2.5rem;
+    }
+
+    .hero-section img {
+        max-width: 250px !important;
+    }
+}
+
+/* Improve tap targets for touch devices */
+@media (hover: none) and (pointer: coarse) {
+    .btn, .nav-link, a {
+        min-height: 44px;
+        min-width: 44px;
+    }
+}
+
+/* Prevent horizontal scrolling on mobile */
+body {
+    overflow-x: hidden;
+}
+
+.container-fluid {
+    overflow-x: hidden;
+}
+
+/* Make tables responsive */
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}

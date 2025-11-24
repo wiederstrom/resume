@@ -1,0 +1,73 @@
+[
+    {
+        "category": "Programming Languages",
+        "skills": [
+            {"name": "Python", "proficiency": 5, "years_experience": 3.0},
+            {"name": "SQL", "proficiency": 4, "years_experience": 3.0},
+            {"name": "R", "proficiency": 4, "years_experience": 2.5},
+            {"name": "Java", "proficiency": 3, "years_experience": 2.0}
+        ]
+    },
+    {
+        "category": "Data Science & Analytics",
+        "skills": [
+            {"name": "Pandas", "proficiency": 5, "years_experience": 3.0},
+            {"name": "NumPy", "proficiency": 5, "years_experience": 3.0},
+            {"name": "Matplotlib", "proficiency": 4, "years_experience": 2.5},
+            {"name": "Seaborn", "proficiency": 4, "years_experience": 2.5},
+            {"name": "Plotly", "proficiency": 4, "years_experience": 2.0},
+            {"name": "Jupyter Notebook", "proficiency": 5, "years_experience": 3.0}
+        ]
+    },
+    {
+        "category": "Machine Learning & AI",
+        "skills": [
+            {"name": "Scikit-learn", "proficiency": 5, "years_experience": 3.0},
+            {"name": "TensorFlow", "proficiency": 4, "years_experience": 2.0},
+            {"name": "Keras", "proficiency": 4, "years_experience": 2.0},
+            {"name": "PyTorch", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Computer Vision", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Explainable AI (XAI)", "proficiency": 3, "years_experience": 1.0}
+        ]
+    },
+    {
+        "category": "Databases & Big Data",
+        "skills": [
+            {"name": "MySQL", "proficiency": 4, "years_experience": 3.0},
+            {"name": "MongoDB", "proficiency": 3, "years_experience": 2.0},
+            {"name": "Google BigQuery", "proficiency": 4, "years_experience": 2.0},
+            {"name": "Databricks SQL", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Apache Spark", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Neo4j", "proficiency": 2, "years_experience": 1.0}
+        ]
+    },
+    {
+        "category": "Cloud & DevOps",
+        "skills": [
+            {"name": "Google Cloud Platform", "proficiency": 4, "years_experience": 2.0},
+            {"name": "Databricks", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Git", "proficiency": 4, "years_experience": 3.0},
+            {"name": "Docker", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Visual Studio Code", "proficiency": 5, "years_experience": 3.0}
+        ]
+    },
+    {
+        "category": "Business Intelligence",
+        "skills": [
+            {"name": "Power BI", "proficiency": 4, "years_experience": 2.0},
+            {"name": "Tableau", "proficiency": 3, "years_experience": 1.5},
+            {"name": "Google Analytics", "proficiency": 5, "years_experience": 8.0},
+            {"name": "Google Ads", "proficiency": 4, "years_experience": 8.0},
+            {"name": "Business Strategy", "proficiency": 5, "years_experience": 10.0}
+        ]
+    },
+    {
+        "category": "Web Development",
+        "skills": [
+            {"name": "Dash", "proficiency": 4, "years_experience": 1.0},
+            {"name": "Object-Oriented Programming", "proficiency": 4, "years_experience": 3.0},
+            {"name": "API Development", "proficiency": 3, "years_experience": 1.5},
+            {"name": "E-commerce Development", "proficiency": 4, "years_experience": 5.0}
+        ]
+    }
+]

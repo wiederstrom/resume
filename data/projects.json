@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "title": "Interactive Resume Portfolio",
+        "description": "Professional resume website built with Dash and Python to showcase my education, experience, and data science skills through interactive visualizations and responsive design. Future development planned to migrate to a complete full-stack solution using React, FastAPI, and SQL backend.",
+        "technologies": ["Python", "Dash", "Plotly", "Bootstrap", "JSON", "Railway", "Git"],
+        "github_url": "https://github.com/wiederstrom/resume",
+        "demo_url": "https://wiederstrom.info",
+        "image_path": "/assets/resume-portfolio.png",
+        "is_featured": true,
+        "highlights": [
+            "Interactive data visualizations with Plotly",
+            "Responsive design with Bootstrap components",
+            "Clean, maintainable code architecture"
+        ],
+        "sort_order": 1
+    },
+    {
+        "id": 2,
+        "title": "Brain Tumor MRI Classifier",
+        "description": "Deep learning model to classify brain tumors from MRI images into four categories: glioma, meningioma, pituitary tumor, or no tumor. Trained on over 7,000 MRI scans as part of university machine learning course.",
+        "technologies": ["Python", "TensorFlow", "Keras", "CNN", "cv2", "Jupyter", "Git"],
+        "github_url": "https://github.com/wiederstrom/brain-mri-classification",
+        "demo_url": null,
+        "image_path": "/assets/brain-mri.png",
+        "is_featured": true,
+        "highlights": [
+            "CNN-based deep learning architecture",
+            "Preprocessing of medical imaging data",
+            "Model evaluation with confusion matrix and accuracy metrics",
+            "Complete documentation in Jupyter Notebook"
+        ],
+        "sort_order": 2
+    },
+    {
+        "id": 3,
+        "title": "Global Water Consumption Dashboard",
+        "description": "Interactive dashboard for visualizing global water consumption trends by country, year, and sector from 2000-2024. Users can explore total consumption, sector-based usage, per capita trends, and water scarcity levels.",
+        "technologies": ["Python", "Dash", "Plotly", "Pandas", "Railway", "Git"],
+        "github_url": "https://github.com/wiederstrom/water_consumption",
+        "demo_url": "https://water.wiederstrom.info",
+        "image_path": "/assets/water-consumption.png",
+        "is_featured": true,
+        "highlights": [
+            "Interactive filtering by country and year",
+            "Multi-sector water usage visualization",
+            "Rainfall vs groundwater depletion analysis",
+            "Deployed on Railway with custom domain"
+        ],
+        "sort_order": 3
+    },
+    {
+        "id": 4,
+        "title": "Customer Churn Prediction",
+        "description": "Machine learning pipeline to predict customer churn using Telco dataset. Implements multiple algorithms with GridSearchCV optimization including Logistic Regression, Random Forest, XGBoost, and SVM.",
+        "technologies": ["Python", "Scikit-learn", "XGBoost", "Logistic Regression", "Random Forrest", "SVM", "GridSearchCV", "Pandas", "Git"],
+        "github_url": "https://github.com/wiederstrom/customer-churn-prediction",
+        "demo_url": null,
+        "image_path": "/assets/customer-churn.png",
+        "is_featured": true,
+        "highlights": [
+            "Multiple ML model comparison and evaluation",
+            "Hyperparameter tuning with GridSearchCV",
+            "Comprehensive evaluation metrics (F1, ROC AUC)",
+            "Modular pipeline structure for reproducibility"
+        ],
+        "sort_order": 4
+    },
+    {
+        "id": 5,
+        "title": "UFO Sightings Dashboard",
+        "description": "Interactive data visualization dashboard exploring patterns in UFO sightings worldwide. Transforms cluttered tabular data into clear, insightful visuals with map views and temporal analysis for visual storytelling assessment.",
+        "technologies": ["Python", "Dash", "Plotly", "Pandas", "NUFORC Data", "Railway", "Git"],
+        "github_url": "https://github.com/wiederstrom/UFO",
+        "demo_url": null,
+        "image_path": "/assets/ufo-dashboard.png",
+        "is_featured": false,
+        "highlights": [
+            "Map visualization of global UFO sightings",
+            "Interactive filtering by time, region, and shape",
+            "Clear visual storytelling and data transformation",
+            "Responsive layout with accessible design choices"
+        ],
+        "sort_order": 5
+    },
+    {
+        "id": 6,
+        "title": "Diabetes Prevalence Dashboard",
+        "description": "Interactive dashboard analyzing diabetes prevalence across demographic and health factors using BRFSS 2015 data. Explores patterns by gender, age, education, income, and lifestyle factors with clear visualizations.",
+        "technologies": ["Python", "Dash", "Plotly", "Pandas", "CDC BRFSS Data", "Git"],
+        "github_url": "https://github.com/wiederstrom/Diabetes-Dashboard",
+        "demo_url": "https://diabetes.wiederstrom.info",
+        "image_path": "/assets/diabetes-dashboard.png",
+        "is_featured": false,
+        "highlights": [
+            "Demographic and health factor analysis",
+            "Interactive filtering by age and gender",
+            "Clear bar charts and group comparisons",
+            "CDC BRFSS 2015 dataset visualization"
+        ],
+        "sort_order": 6
+    }
+]

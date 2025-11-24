@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "institution": "Noroff",
+        "degree": "Bachelor",
+        "field_of_study": "Applied Data Science",
+        "location": "Bergen, Norway",
+        "start_date": "2022-08-01",
+        "end_date": "2025-06-01",
+        "gpa": null,
+        "image_path": "/assets/noroff.png",
+        "description": "Practical technology education focusing on programming, data analysis, and insight communication. Comprehensive program covering statistical analysis, machine learning, big data, and interactive dashboard development.",
+        "highlights": [
+            "Programming in Python and SQL, object-oriented development",
+            "Databases (relational and NoSQL) and data modeling",
+            "Statistical analysis and data exploration tools",
+            "Machine Learning and Big Data analysis in cloud environments",
+            "Interactive dashboard development and insight presentation",
+            "Algorithmic thinking and efficient problem solving",
+            "Cross-disciplinary collaboration and independent thesis project"
+        ],
+        "sort_order": 1
+    },
+    {
+        "id": 2,
+        "institution": "BI Norwegian Business School",
+        "degree": "Economics and Management Studies",
+        "field_of_study": "Economics, Management, and Methodology",
+        "location": "Oslo, Norway",
+        "start_date": "2009-08-01",
+        "end_date": "2012-06-01",
+        "gpa": null,
+        "image_path": "/assets/BI.png",
+        "description": "127.5 study points in economics, management, and methodology. Comprehensive business education covering accounting, financial management, strategy, and quantitative methods.",
+        "highlights": [
+            "Basic and advanced accounting and financial management",
+            "Strategy, organizational psychology, and project management",
+            "Micro and macroeconomics, law, and marketing",
+            "Quantitative methods, statistics, and econometrics",
+            "Professional communication in English",
+            "Business analysis and strategic thinking"
+        ],
+        "sort_order": 2
+    }
+]

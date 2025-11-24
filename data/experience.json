@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "company": "07000 Bergen Taxi",
+        "position": "Driver",
+        "location": "Bergen, Norway",
+        "start_date": "2023-05-01",
+        "end_date": null,
+        "is_current": true,
+        "image_path": "assets/07000.png",
+        "description": "Part-time driving position while completing Applied Data Science studies. Demonstrates strong work ethic and time management skills, balancing professional responsibilities with academic pursuits.",
+        "highlights": [
+            "Independent work with high degree of service orientation",
+            "Flexible scheduling to accommodate studies",
+            "Customer service and communication skills",
+            "Time management and reliability"
+        ],
+        "sort_order": 1
+    },
+    {
+        "id": 2,
+        "company": "123 Bad",
+        "position": "Sales & Product Manager",
+        "location": "Bergen, Norway",
+        "start_date": "2014-01-01",
+        "end_date": "2022-06-01",
+        "is_current": false,
+        "image_path": "assets/123-bad.png",
+        "description": "Key role in establishing and scaling the company from concept to 25M NOK revenue and 20 employees. Led sales processes, product development, marketing, and digital strategy while working closely with customers and suppliers.",
+        "highlights": [
+            "Built company from startup to 25M NOK revenue and 20 employees",
+            "Primary responsibility for sales, product development, marketing, and digital strategy",
+            "Led sales processes and project planning with customers and suppliers",
+            "Used market and customer data to improve service offerings and increase conversion",
+            "Strategic planning and business development"
+        ],
+        "sort_order": 2
+    },
+    {
+        "id": 3,
+        "company": "FW Gruppen",
+        "position": "Business Developer",
+        "location": "Bergen, Norway",
+        "start_date": "2012-10-01",
+        "end_date": "2022-06-01",
+        "is_current": false,
+        "image_path": "assets/takkformaten.png",
+        "description": "Developed and operated business concepts within retail, real estate, and e-commerce. Led strategy, concept development, and content production for multiple online solutions including planning, development, and launch of e-commerce platforms.",
+        "highlights": [
+            "Strategy and concept development for multiple business areas (retail, real estate, e-commerce)",
+            "Primary responsibility for content production and development for multiple online solutions",
+            "Participated in planning, development, and launch of e-commerce platforms",
+            "Responsible for digital marketing and traffic growth through Google Ads",
+            "Google Analytics analysis for all business operations",
+            "Managed daily operations at retail store in Os, including leading sales process during divestment",
+            "Primary responsibility for developing 'Takkformaten' - online grocery store with home delivery"
+        ],
+        "sort_order": 3
+    },
+    {
+        "id": 4,
+        "company": "Det Lystige Huset",
+        "position": "Security Chief",
+        "location": "Bergen, Norway",
+        "start_date": "2008-01-01",
+        "end_date": "2013-01-01",
+        "is_current": false,
+        "image_path": "assets/fincken.jpg",
+        "description": "Operational responsibility for security, personnel, and flow management in bar and nightclub environment. Developed leadership and crisis management skills in fast-paced, high-pressure situations.",
+        "highlights": [
+            "Operational responsibility for security, personnel, and crowd flow",
+            "Personnel management and coordination",
+            "Crisis management and quick decision-making under pressure",
+            "Customer service in challenging environments",
+            "Team leadership and operational oversight"
+        ],
+        "sort_order": 4
+    },
+    {
+        "id": 5,
+        "company": "Mix Møhlenpris",
+        "position": "Kiosk Employee / Shift Leader",
+        "location": "Bergen, Norway",
+        "start_date": "2006-01-01",
+        "end_date": "2009-01-01",
+        "is_current": false,
+        "image_path": "assets/mix-logo3.png",
+        "description": "Responsible for evening and weekend shifts, customer service, and inventory management at neighborhood kiosk.",
+        "highlights": [
+            "Responsibility for evening and weekend shifts",
+            "Customer service and customer relations",
+            "Inventory management and restocking",
+            "Shift leadership and operational duties"
+        ],
+        "sort_order": 5
+    },
+    {
+        "id": 6,
+        "company": "Joker Spilde",
+        "position": "Store Employee / Shift Leader",
+        "location": "Bergen, Norway",
+        "start_date": "2004-01-01",
+        "end_date": "2012-01-01",
+        "is_current": false,
+        "image_path": "assets/joker.jpg",
+        "description": "Long-term position in retail grocery store with responsibilities for cash handling, customer service, and opening/closing procedures.",
+        "highlights": [
+            "Cash register management and financial responsibility",
+            "Customer service and assistance",
+            "Opening and closing procedures",
+            "Shift leadership duties",
+            "Long-term reliability and commitment (8 years)"
+        ],
+        "sort_order": 6
+    }
+]

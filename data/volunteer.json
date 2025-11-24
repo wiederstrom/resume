@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "organization": "Sportsklubben Djerv",
+        "position": "Board Member & Working Committee",
+        "location": "Bergen, Norway",
+        "start_date": "2019-01-01",
+        "end_date": null,
+        "is_current": true,
+        "image_path": "/assets/djerv.png",
+        "description": "Member of the main board and working committee in a sports club with approximately 600 members. Participates in leadership of the club's daily operations and strategic priorities, with responsibility for club properties and major maintenance projects.",
+        "highlights": [
+            "Member of main board and working committee for organization with 600+ members",
+            "Participates in leadership of club's daily operations and strategic priorities",
+            "Responsibility for club properties and major maintenance projects",
+            "Led completion of club cabin on Ulriken mountain and other property operations",
+            "Budget planning and resource allocation",
+            "Team coordination and project management"
+        ],
+        "sort_order": 1
+    },
+    {
+        "id": 2,
+        "organization": "Russeutvalget i Hordaland Fylkeskommune",
+        "position": "Board Member (Advisory Representative)",
+        "location": "Hordaland, Norway",
+        "start_date": "2009-01-01",
+        "end_date": "2013-01-01",
+        "is_current": false,
+        "image_path": "/assets/rok.png",
+        "description": "Participated in collaborative organization with police, Trygg Trafikk (Road Safety), and education sector. Contributed to planning and implementation of measures for a safe graduation celebration period.",
+        "highlights": [
+            "Collaborated with police, road safety organizations, and education sector",
+            "Participated in planning and implementation of safety measures",
+            "Contributed to strategy for safe graduation celebrations",
+            "Cross-sector stakeholder coordination"
+        ],
+        "sort_order": 2
+    },
+    {
+        "id": 3,
+        "organization": "Bjørgvin Videregående Skole",
+        "position": "Fundraising Campaign Leader - HIV-affected Children in Romania",
+        "location": "Bergen, Norway",
+        "start_date": "2006-01-01",
+        "end_date": "2007-01-01",
+        "is_current": false,
+        "image_path": "/assets/hord.png",
+        "description": "Led the organizational work for an annual student-driven fundraising campaign in collaboration with fellow students and local supporters to raise funds for HIV-affected children in Romania.",
+        "highlights": [
+            "Led organizational work for annual student-driven fundraising campaign",
+            "Collaborated with fellow students and local community supporters",
+            "Fundraising for HIV-affected children in Romania",
+            "Project management and team coordination",
+            "Community engagement and awareness building"
+        ],
+        "sort_order": 3
+    }
+]
